@@ -1,0 +1,45 @@
+1	33	Palabra Reservada	Paquete	package	
+2	19	Delimitador	Punto y Coma	;	
+3	21	Delimitador	Punto	.	
+4	21	Delimitador	Punto	.	
+5	19	Delimitador	Punto y Coma	;	
+6	55	Palabra Reservada	Public	public	
+7	50	Palabra Reservada	Clase	class	
+8	15	Delimitador	Llave Abierta	{	
+9	55	Palabra Reservada	Public	public	
+10	34	Palabra Reservada	Inicio de ejecución	main	
+11	13	Delimitador	Paréntesis Abierto	(	
+12	31	Palabra Reservada	Variable tipo cadena	String	
+13	17	Delimitador	Corchete Abierto	[	
+14	18	Delimitador	Corchete Cerrado	]	
+15	14	Delimitador	Paréntesis Cerrado	)	
+16	15	Delimitador	Llave Abierta	{	
+17	6	Operador Aritmético	Asignación	=	
+18	61	Palabra Reservda	Instancia de un objeto	new	
+19	13	Delimitador	Paréntesis Abierto	(	
+20	21	Delimitador	Punto	.	
+21	14	Delimitador	Paréntesis Cerrado	)	
+22	19	Delimitador	Punto y Coma	;	
+23	21	Delimitador	Punto	.	
+24	21	Delimitador	Punto	.	
+25	13	Delimitador	Paréntesis Abierto	(	
+26	14	Delimitador	Paréntesis Cerrado	)	
+27	19	Delimitador	Punto y Coma	;	
+28	22	Palabra Reservada	Variable tipo entero	int	
+29	6	Operador Aritmético	Asignación	=	
+30	21	Delimitador	Punto	.	
+31	13	Delimitador	Paréntesis Abierto	(	
+32	14	Delimitador	Paréntesis Cerrado	)	
+33	19	Delimitador	Punto y Coma	;	
+34	22	Palabra Reservada	Variable tipo entero	int	
+35	6	Operador Aritmético	Asignación	=	
+36	1	Operador Aritmético	Suma	+	
+37	19	Delimitador	Punto y Coma	;	
+38	21	Delimitador	Punto	.	
+39	21	Delimitador	Punto	.	
+40	13	Delimitador	Paréntesis Abierto	(	
+41	1	Operador Aritmético	Suma	+	
+42	14	Delimitador	Paréntesis Cerrado	)	
+43	19	Delimitador	Punto y Coma	;	
+44	16	Delimitador	Llave Cerrada	}	
+45	16	Delimitador	Llave Cerrada	}	
