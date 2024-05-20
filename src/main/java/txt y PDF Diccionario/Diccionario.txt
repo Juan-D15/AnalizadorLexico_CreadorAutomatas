@@ -1,0 +1,240 @@
+1
+Operador Aritmético
+Suma
++
+2
+Operador Aritmético
+Resta
+-
+3
+Operador Aritmético
+Multiplicación
+*
+4
+Operador Aritmético
+División
+/
+5
+Operador Aritmético
+Modulo
+%
+6
+Operador Aritmético
+Asignación
+=
+7
+Operador Aritmético
+Incremento en uno
+++
+8
+Operador Aritmético
+Decremento en uno
+--
+9
+Operador Aritmético
+Suma y asignación
++=
+10
+Operador Aritmético
+Resta y asignación
+-=
+11
+Operador Aritmético
+Multiplicación y asignación
+*=
+12
+Operador Aritmético
+Modulo y asignación
+%=
+13
+Delimitador
+Paréntesis Abierto
+(
+14
+Delimitador
+Paréntesis Cerrado
+)
+15
+Delimitador
+Llave Abierta
+{
+16
+Delimitador
+Llave Cerrada
+}
+17
+Delimitador
+Corchete Abierto
+[
+18
+Delimitador
+Corchete Cerrado
+]
+19
+Delimitador
+Punto y Coma
+;
+20
+Delimitador
+Coma
+,
+21
+Delimitador
+Punto
+.
+22
+Palabra Reservada
+Variable tipo entero
+int
+23
+Palabra Reservada
+Variable tipo flotante
+float
+24
+Palabra Reservada
+Variable tipo flotante
+double
+25
+Palabra Reservada
+Variable tipo entero
+short
+26
+Palabra Reservada
+Variable tipo entero
+long
+27
+Palabra Reservada
+Variable tipo entero
+byte
+28
+Palabra Reservada
+Variable tipo booleano
+boolean
+29
+Palabra Reservada
+Variable tipo booleano
+true
+30
+Palabra Reservada
+Variable tipo booleano
+false
+31
+Palabra Reservada
+Variable tipo cadena
+String
+32
+Palabra Reservada
+Variable tipo caracter
+char
+33
+Palabra Reservada
+Paquete
+package
+34
+Palabra Reservada
+Inicio de ejecución
+main
+35
+Palabra Reservada
+De acceso privado
+private
+36
+Palabra Reservada
+Bucle
+for
+37
+Palabra Reservada
+Bucle
+while
+38
+Palabra Reservada
+Reservada do
+do
+39
+Palabra Reservada
+Condicional
+if
+40
+Palabra Reservada
+Condicional
+else
+41
+Operador lógico
+AND
+&&
+42
+Operador lógico
+OR
+||
+43
+Operador lógico
+NOT
+!
+44
+Operador Relacional
+Mayor que
+>
+45
+Operador Relacional
+Menor que
+<
+46
+Operador Relacional
+Mayor o igual que
+>=
+47
+Operador Relacional
+Menor o igual que
+<=
+48
+Operador Relacional
+Igual
+==
+49
+Operador Relacional
+Distinto
+!=
+50
+Palabra Reservada
+Clase
+class
+51
+Palabra Reservada
+Retorno
+return
+52
+Palabra Reservada
+Condicional
+switch
+53
+Palabra Reservada
+Condicional
+case
+54
+Palabra Reservada
+Finaliza ejecución
+break
+55
+Palabra Reservada
+Public
+public
+56
+Palabra Reservada
+Continue
+continue
+57
+Palabra Reservada
+Generic
+generic
+58
+Palabra Reservada
+Cast
+cast
+59
+Palabra Reservada
+Outer
+outer
+60
+Palabra Reservada
+Operator
+Operator
